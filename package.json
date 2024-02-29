@@ -1,0 +1,15 @@
+{
+  "name": "@scar2056/eslint-config",
+  "version": "1.0.0",
+  "description": "My personal ESlint configuration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "scar2056",
+  "license": "ISC"
+}
