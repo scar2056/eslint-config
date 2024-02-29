@@ -11,5 +11,6 @@
     "eslintconfig"
   ],
   "author": "scar2056",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/scar2056/eslint-config"
 }
