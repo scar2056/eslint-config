@@ -12,5 +12,8 @@
 	],
 	"author": "scar2056",
 	"license": "ISC",
-	"homepage": "https://github.com/scar2056/eslint-config"
+	"homepage": "https://github.com/scar2056/eslint-config",
+	"dependencies": {
+		"@stylistic/eslint-plugin-js": "^1.6.3"
+	}
 }
