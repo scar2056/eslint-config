@@ -72,45 +72,6 @@ module.exports = {
 			"error",
 			"never"
 		],
-		"@stylistic/js/padding-line-between-statements": [
-			"error",
-			{
-				"blankLine": "always",
-				"prev": [
-					"const",
-					"let",
-					"var"
-				],
-				"next": "*"
-			},
-			{
-				"blankLine": "always",
-				"prev": "*",
-				"next": [
-					"const",
-					"let",
-					"var"
-				]
-			},
-			{
-				"blankLine": "any",
-				"prev": [
-					"const",
-					"let",
-					"var"
-				],
-				"next": [
-					"const",
-					"let",
-					"var"
-				]
-			},
-			{
-				"blankLine": "always",
-				"prev": "*",
-				"next": "return"
-			}
-		],
 		"@stylistic/js/indent": "error",
 		"@stylistic/js/space-infix-ops": "error",
 		"@stylistic/js/max-statements-per-line": [
